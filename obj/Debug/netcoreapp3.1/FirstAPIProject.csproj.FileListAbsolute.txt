@@ -1,0 +1,17 @@
+/Users/kamariross/sdg-project/FirstAPIProject/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/kamariross/sdg-project/FirstAPIProject/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/kamariross/sdg-project/FirstAPIProject/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/kamariross/sdg-project/FirstAPIProject/bin/Debug/netcoreapp3.1/FirstAPIProject.deps.json
+/Users/kamariross/sdg-project/FirstAPIProject/bin/Debug/netcoreapp3.1/FirstAPIProject.runtimeconfig.json
+/Users/kamariross/sdg-project/FirstAPIProject/bin/Debug/netcoreapp3.1/FirstAPIProject.runtimeconfig.dev.json
+/Users/kamariross/sdg-project/FirstAPIProject/bin/Debug/netcoreapp3.1/FirstAPIProject.dll
+/Users/kamariross/sdg-project/FirstAPIProject/bin/Debug/netcoreapp3.1/FirstAPIProject.pdb
+/Users/kamariross/sdg-project/FirstAPIProject/obj/Debug/netcoreapp3.1/FirstAPIProject.csprojAssemblyReference.cache
+/Users/kamariross/sdg-project/FirstAPIProject/obj/Debug/netcoreapp3.1/FirstAPIProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/kamariross/sdg-project/FirstAPIProject/obj/Debug/netcoreapp3.1/FirstAPIProject.AssemblyInfoInputs.cache
+/Users/kamariross/sdg-project/FirstAPIProject/obj/Debug/netcoreapp3.1/FirstAPIProject.AssemblyInfo.cs
+/Users/kamariross/sdg-project/FirstAPIProject/obj/Debug/netcoreapp3.1/FirstAPIProject.RazorTargetAssemblyInfo.cache
+/Users/kamariross/sdg-project/FirstAPIProject/obj/Debug/netcoreapp3.1/staticwebassets/FirstAPIProject.StaticWebAssets.Manifest.cache
+/Users/kamariross/sdg-project/FirstAPIProject/obj/Debug/netcoreapp3.1/staticwebassets/FirstAPIProject.StaticWebAssets.xml
+/Users/kamariross/sdg-project/FirstAPIProject/obj/Debug/netcoreapp3.1/FirstAPIProject.dll
+/Users/kamariross/sdg-project/FirstAPIProject/obj/Debug/netcoreapp3.1/FirstAPIProject.pdb
